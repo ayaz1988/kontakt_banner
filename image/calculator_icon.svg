@@ -1,0 +1,18 @@
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Camada_1" data-name="Camada 1" transform="translate(0)">
+    <path id="Path_1" data-name="Path 1" d="M29.194,0H.806A.735.735,0,0,0,0,.632V29.368A.735.735,0,0,0,.806,30H29.194A.735.735,0,0,0,30,29.368V.632A.735.735,0,0,0,29.194,0Zm-.806,28.737H1.611V1.263H28.389Z" transform="translate(0)" fill="#fff"/>
+    <path id="Path_2" data-name="Path 2" d="M4.366,8.068H21.283a.735.735,0,0,0,.806-.632V3.812a.735.735,0,0,0-.806-.632H4.366a.735.735,0,0,0-.806.632V7.437A.735.735,0,0,0,4.366,8.068Zm.806-3.625H20.477V6.805H5.171Z" transform="translate(2.176 0.837)" fill="#fff"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="1.305" cy="1.023" rx="1.305" ry="1.023" transform="translate(6.3 12.429)" fill="#fff"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="1.305" cy="1.023" rx="1.305" ry="1.023" transform="translate(11.23 12.429)" fill="#fff"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="1.305" cy="1.023" rx="1.305" ry="1.023" transform="translate(16.16 12.429)" fill="#fff"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="1.305" cy="1.023" rx="1.305" ry="1.023" transform="translate(21.106 12.429)" fill="#fff"/>
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="1.321" cy="1.036" rx="1.321" ry="1.036" transform="translate(6.284 17.217)" fill="#fff"/>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="1.321" cy="1.036" rx="1.321" ry="1.036" transform="translate(11.214 17.217)" fill="#fff"/>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="1.321" cy="1.036" rx="1.321" ry="1.036" transform="translate(16.144 17.217)" fill="#fff"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="1.321" cy="1.036" rx="1.321" ry="1.036" transform="translate(21.09 17.217)" fill="#fff"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="1.321" cy="1.036" rx="1.321" ry="1.036" transform="translate(6.284 22.017)" fill="#fff"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="1.321" cy="1.036" rx="1.321" ry="1.036" transform="translate(11.214 22.017)" fill="#fff"/>
+    <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="1.321" cy="1.036" rx="1.321" ry="1.036" transform="translate(16.144 22.017)" fill="#fff"/>
+    <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="1.321" cy="1.036" rx="1.321" ry="1.036" transform="translate(21.09 22.017)" fill="#fff"/>
+  </g>
+</svg>
